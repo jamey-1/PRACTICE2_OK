@@ -2,6 +2,7 @@ package org.comit;
 
 import java.util.Scanner;
 
+@SuppressWarnings("unused")
 public class App3 {
 	
 	public static void main(String[] args) {
